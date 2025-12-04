@@ -43,8 +43,8 @@ const ContactSection = () => {
               <MapPin className="w-6 h-6 text-primary" />
             </div>
             <h3 className="font-display text-lg font-semibold text-foreground mb-2">Address</h3>
-            <p className="text-muted-foreground">123 Garden Street</p>
-            <p className="text-muted-foreground">Green Valley, Mumbai 400001</p>
+            <p className="text-muted-foreground">ICL, 4th Road</p>
+            <p className="text-muted-foreground">Sankari West</p>
           </div>
 
           {/* Hours */}
